@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/assignment_freelance/static/css/main.0607af19.chunk.css",
+    "main.js": "/assignment_freelance/static/js/main.4d8f222a.chunk.js",
+    "main.js.map": "/assignment_freelance/static/js/main.4d8f222a.chunk.js.map",
+    "runtime-main.js": "/assignment_freelance/static/js/runtime-main.6ba2ab90.js",
+    "runtime-main.js.map": "/assignment_freelance/static/js/runtime-main.6ba2ab90.js.map",
+    "static/js/2.5c520545.chunk.js": "/assignment_freelance/static/js/2.5c520545.chunk.js",
+    "static/js/2.5c520545.chunk.js.map": "/assignment_freelance/static/js/2.5c520545.chunk.js.map",
+    "index.html": "/assignment_freelance/index.html",
+    "static/css/main.0607af19.chunk.css.map": "/assignment_freelance/static/css/main.0607af19.chunk.css.map",
+    "static/js/2.5c520545.chunk.js.LICENSE.txt": "/assignment_freelance/static/js/2.5c520545.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/assignment_freelance/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ba2ab90.js",
+    "static/js/2.5c520545.chunk.js",
+    "static/css/main.0607af19.chunk.css",
+    "static/js/main.4d8f222a.chunk.js"
+  ]
+}
